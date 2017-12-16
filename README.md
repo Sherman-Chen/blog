@@ -1,15 +1,9 @@
 # 博客说明
 
-如果博客对你有所帮助，请点击右上角的star。
+作为自己平常的学习笔记，学习心得，工作心得的记录地方。
 
-订阅请选择右上角的Watch-Watching，不要Fork，谢谢。
+不作为博客发表的地方，因为某道笔记用户体验越来越不好，因此尝试将笔记文章都保存在github上。文章组织上可能体验不好，因为可能只有我看得懂，哈哈。
 
 
-# 文章目录
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="https://code7070.github.io/blog{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+
